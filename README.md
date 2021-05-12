@@ -8,6 +8,10 @@
 - comparer
     -   calculate the wavenet energy features of the ROI
     -   find match by the cityblock distance of features
+- data
+    -   the orignal hand photo is stored in by name folder [./images/original/](./images/original/)
+    -   the extraced ROI is stored in by name folder [./images/roi/](./images/roi/)
+    
 # dependencies
 - numpy
 - pyplot
