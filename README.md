@@ -1,4 +1,11 @@
 # palm print matching
+Algorithmic approach for palm print matching.
+
+# References
+- https://github.com/safwankdb/Effectual-Palm-RoI-Extraction
+- https://link.springer.com/content/pdf/10.1007/s11390-005-0411-8.pdf
+
+# Components
  - ROIextration
     - ROI (region of interest)
     - work for left hand only
